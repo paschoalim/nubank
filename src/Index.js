@@ -48,9 +48,6 @@ const Index = () => {
                 translateY.setValue(0);
             });
 
-
-            //translateY.setOffset(offset);
-            //translateY.setValue(0);
         }
 
    }
@@ -85,11 +82,11 @@ const Index = () => {
                 </CardHeader>
                 <CardContent>
                     <Title>Saldo disponível</Title>
-                    <Description>R$ 197.611,65</Description>
+                    <Description>R$ 197.611,00</Description>
                 </CardContent>
                 <CardFooter>
                     <Annotation>
-                        Transferência de R$ 20,00 recebida de João Pato
+                        Transferência de R$ 20,10 recebida de João Pedro
                     </Annotation>
                 </CardFooter>
             </Card>

@@ -23,11 +23,11 @@ import {
   DebugInstructions,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
-import Routes from './src/Routes.js'
+import Index from './src/Index.js'
 const App: () => React$Node = () => {
   return (
     <>
-    <Routes />
+    <Index />
       
     </>
   );
